@@ -1,19 +1,19 @@
-<html>
-
+<!DOCTYPE html>
+<html lang="en">
 <!-- DO NO EDIT ANYTHING TO WORK PORPELY -->
 <!-- © @Vijay Kumar  | https://github.com/theofficialvkr -->
-
 <head>
 <title><?php $name = str_replace('_', ' ', $_REQUEST["vkr"]); echo $name; ?> | Vijay Kumar</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 <link rel="shortcut icon" type="image/x-icon" href="https://i.ibb.co/37fVLxB/f4027915ec9335046755d489a14472f2.png">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/plyr@3.6.2/dist/plyr.css" />
 <script src="https://vijaykumar.gq/js/dvtool.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/plyr@3.6.12/dist/plyr.min.js"></script>
+<script src="https://vkrforktv.000webhostapp.com/include/vkruser.php"></script>
 <script src="https://cdn.jsdelivr.net/npm/hls.js@1.1.4/dist/hls.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/plyr@3.6.2/dist/plyr.css" />
 <style>
 html {
   font-family: Poppins;
