@@ -122,7 +122,11 @@ html {
         background: url('http://vkrforktv.ml/images/logo.png') no-repeat;
         background-size: 35px auto, auto;
     }
-
+.plyr audio, .plyr iframe, .plyr video{
+display: block;
+height: 100vh !important;
+width: 100% !important;
+}
 </style>
 </head>
 <body>
