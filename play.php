@@ -7,7 +7,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-<link rel="shortcut icon" type="image/x-icon" href="https://i.ibb.co/37fVLxB/f4027915ec9335046755d489a14472f2.png">
+<link rel="shortcut icon" type="image/x-icon" href="http://vkrforktv.ml/images/logo.png">
 <script src="https://vijaykumar.gq/js/dvtool.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/plyr@3.6.12/dist/plyr.min.js"></script>
 <script src="https://vkrforktv.000webhostapp.com/include/vkruser.php"></script>
@@ -107,7 +107,7 @@ html {
         content: '';
         height: 35px;
         width: 35px;
-        background: url('https://telegra.ph/file/22da4d29204c748a526a4.png') no-repeat;
+        background: url('http://vkrforktv.ml/images/logo.png') no-repeat;
         background-size: 35px auto, auto;
     }
 
@@ -119,7 +119,7 @@ html {
         content: '';
         height: 35px;
         width: 35px;
-        background: url('https://i.ibb.co/37fVLxB/f4027915ec9335046755d489a14472f2.png') no-repeat;
+        background: url('http://vkrforktv.ml/images/logo.png') no-repeat;
         background-size: 35px auto, auto;
     }
 
