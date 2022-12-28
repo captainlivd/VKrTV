@@ -86,7 +86,10 @@ html {
         filter: blur(0px);
         animation: blur-text 1.5s 1.2s infinite linear alternate;
     }
-    
+       .loading-text span:nth-child(8) {
+        filter: blur(0px);
+        animation: blur-text 1.5s 1.4s infinite linear alternate;
+    }
     @keyframes blur-text {
         0% {
             filter: blur(0px);
