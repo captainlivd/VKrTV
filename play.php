@@ -4,7 +4,7 @@
 <!-- © @Vijay Kumar  | https://github.com/theofficialvkr -->
 
 <head>
-<title><?php $name = str_replace('_', ' ', $_REQUEST["c"]); echo $name; ?> | Vijay Kumar</title>
+<title><?php $name = str_replace('_', ' ', $_REQUEST["vkr"]); echo $name; ?> | Vijay Kumar</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
@@ -137,7 +137,7 @@ html {
 </div>
 <video autoplay controls crossorigin poster="http://jiotv.catchup.cdn.jio.com/dare_images/images/<?php echo $_REQUEST["c"]; ?>.png" playsinline>
 <?php
-printf("<source type=\"application/vnd.apple.mpegurl\" src=\"autoq.php?c=%s\">", $_REQUEST["c"]);
+printf("<source type=\"application/vnd.apple.mpegurl\" src=\"autoq.php?vkr=%s\">", $_REQUEST["vkr"]);
 ?>
 </video>
 </body>

@@ -26,7 +26,7 @@ $json = json_decode(file_get_contents('data/channels.json') , true);
 foreach ($json['result'] as $channel)
 {
     echo '<div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">' . PHP_EOL;
-    printf("<a href=\"play.php?c=%s\" class=\"card\">" . PHP_EOL, $channel['target']);
+    printf("<a href=\"play.php?vkr=%s\" class=\"card\">" . PHP_EOL, $channel['target']);
     printf("<img class=\"lazyload\" data-src=\"http://jiotv.catchup.cdn.jio.com/dare_images/images/%s\" style=\"height: 120px\">" . PHP_EOL, $channel['logoUrl']);
     echo '<div class="card-body">' . PHP_EOL;
     printf("<p class=\"card-text\">%s</p>" . PHP_EOL, $channel['channel_name']);

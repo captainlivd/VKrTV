@@ -29,7 +29,7 @@ Don't Edit This Script
 
 ```
 
-• Download this ZIP File From [Here](https://github.com/theofficialvkr/VKrTV/archive/refs/tags/1.0.zip)<br>
+• Download this ZIP File From [Here](https://github.com/theofficialvkr/VKrTV/archive/refs/heads/main.zip)<br>
 • Extract in the on Mobile in htdocs Folder <br>
 • Start Localhost Server and Go To localhost:8080/login.php <br>
 • Put Jio Login Details and Submit <br>
@@ -43,7 +43,7 @@ Don't Edit This Script
 https://www.apachefriends.org/index.html
 
 ```
-• Download Given [ZIP](https://github.com/theofficialvkr/VKrTV/archive/refs/tags/1.0.zip) and Extract in htdocs Folder<br>
+• Download Given [ZIP](https://github.com/theofficialvkr/VKrTV/archive/refs/heads/main.zip) and Extract in htdocs Folder<br>
 • Open localhost/login.php <br>
 • Put Jio Login Details and Submit <br>
 • Go Back To Home and Enjoy !

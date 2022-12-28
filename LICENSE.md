@@ -1,5 +1,5 @@
 ```py
-Copyright (c) 2022 Vijay Kumar Patil
+Copyright (c) 2022 Vijay Kumar
 ```
 <b>
 - DO NOT REMOVE CREDITS<br>
