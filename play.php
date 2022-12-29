@@ -144,7 +144,7 @@ width: 100% !important;
 </div>
 <video autoplay controls crossorigin poster="http://jiotv.catchup.cdn.jio.com/dare_images/images/<?php echo $_REQUEST["c"]; ?>.png" playsinline>
 <?php
-printf("<source type=\"application/vnd.apple.mpegurl\" src=\"autoq.php?vkr=%s\">", $_REQUEST["vkr"]);
+printf("<source type=\"application/vnd.apple.mpegurl\" src=\"autoqVKr.php?vkr=%s\">", $_REQUEST["vkr"]);
 ?>
 </video>
 </body>
